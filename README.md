@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dithricg
-- 👀 I’m interested in Art, comics, code and artificial minds.
+- 👀 I’m interested in Art, comics, code, games and artificial minds.
 - 🌱 I’m currently learning all.
 
 <!---
